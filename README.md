@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Danny Mai
 =================================================================================================================================
 
-Front End Developer and Engineer
+Software Engineer
 --------------------------------
 
 An enthusiastic software engineering undergraduate seeking an internship position to grow current skills and abilities. Dedicated individual with excellent front end skills. Knowledge of working in a fast-paced, team-oriented environment. Proficient in a variety of software languages including HTML/CSS, Javascript, Python, Java, & etc.
